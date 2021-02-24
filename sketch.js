@@ -73,7 +73,7 @@ function draw() {
   text(200,580,550)
   text(200,660,550)
   text(200,740,550)
-  text(mouseX+','+mouseY,30,45)
+  
 
   Engine.update(engine);
  
